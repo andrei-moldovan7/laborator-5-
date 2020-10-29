@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Fișă-Laborator 5</h1>
+<p>Nume/Prenume: Moldvan Andrei </p>
+<p>Citat despre educație: Educația este importantă pentru deprinderea abilităților </p>
+<p>E-mail: andreim1104@gmail.com  </p>
+<p>Listă de discipline: </p>
+<p><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/06.pdf">This is a link</a>Informatică aplicată</p>
+<p><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/04.pdf">This is a link</a>Programarea calculatoarelor si limbaje de programare I</p>
+<p><a href="https://etti.utcluj.ro/files/FiseDisciplina/EaRo/10.pdf">This is a link</a>Fizica I </p>
+<p>Hobiuri: înot, alergare, uitat la  filme/seriale </p>
+
+</body>
+</html>
